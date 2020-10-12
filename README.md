@@ -4,7 +4,7 @@
 
 ## The main program
 
-The main script of the program is **autoClassify.py**.
+The main script of this program is **autoClassify.py**.
 
 
 ## Data
