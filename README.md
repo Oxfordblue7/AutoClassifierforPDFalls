@@ -9,7 +9,7 @@ The main script of this program is **autoClassify.py**.
 
 ## Data
 
-The original dataset is **pdfalls.py**.
+The original dataset is **pdfalls.csv**.
 
 
 ## Outputs
