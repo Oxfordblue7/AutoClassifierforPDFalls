@@ -2,21 +2,21 @@
  This is an automatic classifier for fall types from reports of patients with Parkinson's disease.
 
 
-### The main program
+## The main program
 
 The main script of this program is **autoClassify.py**.
 
 
-### Data
+## Data
 
 The original dataset is **pdfalls.csv**.
 
 
-### Outputs
+## Outputs
 
 All outputs of performances are in the directory **outputs**.
 
 
-### Logs
+## Logs
 
 The file **logs** contains the logs of all experiments.
